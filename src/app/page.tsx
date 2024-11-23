@@ -8,7 +8,7 @@ export default function Home() {
       <main className="flex flex-col gap-8 items-center sm:items-center py-10 px-4">
         {/* Logo */}
         <Image
-          className="dark:invert mt-5 bg-gradient-to-r from-gray-500 to-green-500 p-2"
+          className="dark:invert mt-5 bg-gradient-to-r from-gray-400 to-green-500 p-2"
           src="https://nextjs.org/icons/next.svg"
           alt="Next.js logo" 
           width={180}
